@@ -10,8 +10,6 @@ Display list of available printers in the local machine
 
 Check the selected printer is online or not
 
-Use my referral link https://crypto.com/app/gmdvtgv38s to sign up for **Crypto.com** and we both get **$25 USD** :)
-
 ## Donation
 
 If this project helped you reduce time to develop, please consider buying me a cup of coffee :)
